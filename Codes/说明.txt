@@ -1,0 +1,9 @@
+mycaffetoos:
+    字符界面工具包，主要是一些试验中常用代码
+
+data_processing:
+    图形化界面程序，是mycaffetools的升级版（功能没有全部集成），功能包括：制作图片文件列表， 裁剪人脸区域和将图片转换成LMDB格式
+
+FaceShapePredict:
+    人脸识别的C++接口
+    

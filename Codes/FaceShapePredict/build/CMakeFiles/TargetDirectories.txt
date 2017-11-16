@@ -1,0 +1,6 @@
+/home/leo/Desktop/FaceShape/Codes/FaceShapePredict/build/CMakeFiles/edit_cache.dir
+/home/leo/Desktop/FaceShape/Codes/FaceShapePredict/build/CMakeFiles/rebuild_cache.dir
+/home/leo/Desktop/FaceShape/Codes/FaceShapePredict/build/CMakeFiles/FaceShapePredict.dir
+/home/leo/Desktop/FaceShape/Codes/FaceShapePredict/build/dlib_build/CMakeFiles/edit_cache.dir
+/home/leo/Desktop/FaceShape/Codes/FaceShapePredict/build/dlib_build/CMakeFiles/rebuild_cache.dir
+/home/leo/Desktop/FaceShape/Codes/FaceShapePredict/build/dlib_build/CMakeFiles/dlib.dir

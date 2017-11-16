@@ -1,0 +1,1 @@
+/home/leo/AvatarDatabase/val_crop2_label.txt
